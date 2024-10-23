@@ -3,7 +3,7 @@ Today I Learned
 
 ## Filmmaking
 ---
-[8 Seconds Rule](https://github.com/arirachman/TIL/blob/main/8%20Seconds%20rule.md}
+[8 Seconds Rule](https://github.com/arirachman/TIL/blob/main/8%20Seconds%20rule.md)
 
 ## About
 ---
